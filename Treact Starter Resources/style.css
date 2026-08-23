@@ -726,7 +726,6 @@ p.pricing__column-item--features-list-item {
 
 .testimonials__container {
   display: flex;
-  margin-top: -156px;
 }
 
 .testimonials__hero-img--wrapper {
@@ -1414,5 +1413,4 @@ footer {
 
   :root {
     font-size: 14px;
-  }
-}
+  } 
